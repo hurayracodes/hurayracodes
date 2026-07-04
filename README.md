@@ -1,4 +1,4 @@
-# Hi, I'm Abu Huraira 👋
+# Hi, I'm Abu Hurayra 👋
 
 🚀 **MERN Stack Developer | Next.js & JavaScript Specialist**
 
